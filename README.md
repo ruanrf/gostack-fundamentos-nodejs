@@ -1,4 +1,4 @@
-# gostack-fundamentos-nodejs
+# gostack-fundamentos-nodejs :rocket:
 
 Challenge proposed by @Rocketseat during the GoStack Bootcamp.
 
